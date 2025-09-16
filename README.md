@@ -1,3 +1,4 @@
+<img width="467" height="288" alt="image" src="https://github.com/user-attachments/assets/f3c26e5b-29f7-4754-890e-7503f05180aa" />
 
 # 📊 Data Monitor Widget
 
