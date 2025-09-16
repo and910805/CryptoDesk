@@ -1,0 +1,11 @@
+{
+  "show_type": false,
+  "crypto": [
+    {"symbol": "BTCUSDT", "alias": "SYS01", "exchange": "binance"},
+    {"symbol": "ETHUSDT", "alias": "SYS02", "exchange": "binance"},
+    {"symbol": "SOLUSDT", "alias": "SYS03", "exchange": "binance"},
+    {"symbol": "ADAUSDT", "alias": "SYS04", "exchange": "binance"},
+    {"symbol": "MYXUSDT", "alias": "SYS05", "exchange": "mexc"}
+    
+  ]
+}
